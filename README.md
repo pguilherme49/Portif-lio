@@ -1,2 +1,2 @@
-# Portif-lio
-ALura Desafio do Portfólio 
+# portfolio
+Portfolio Challenge ALura
